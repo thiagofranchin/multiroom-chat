@@ -1,0 +1,7 @@
+1) Criar diretório
+2) Iniciar npm
+3) express (Framework para desenvolvimento de aplicações web)
+4) ejs (engine de views)
+5) consign (auto-loader)
+6) body-parser (middleware que popula os elementos de formulário transitados nas requisições )
+7) express-validator (valida as informações digitadas em formulários)

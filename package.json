@@ -1,0 +1,27 @@
+{
+  "name": "multiroom_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagofranchin/multiroom-chat.git"
+  },
+  "author": "Thiago Franchin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagofranchin/multiroom-chat/issues"
+  },
+  "homepage": "https://github.com/thiagofranchin/multiroom-chat#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "consign": "^0.1.4",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-validator": "^3.2.0",
+    "socket.io": "^2.0.1"
+  }
+}
