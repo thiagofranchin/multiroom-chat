@@ -5,3 +5,17 @@
 5) consign (auto-loader)
 6) body-parser (middleware que popula os elementos de formulário transitados nas requisições )
 7) express-validator (valida as informações digitadas em formulários)
+
+
+*********** ON() e EMIT() ***********
+
+// Ouvindo pedidos de execução
+  - nome do evento | função de callback
+  on('nome', function(data){})
+
+// Pedido para executar alguma ação
+  - Escolhe a função a ser executada ('nome')
+  - O que é execultado é a função de callback do on
+  emit('nome', {})
+
+*************************************
