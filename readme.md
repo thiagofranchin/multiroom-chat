@@ -5,6 +5,7 @@ Pré-requisitos
 ---------------
 
 1 - [Nodejs 6](https://nodejs.org)
+
 2 - Instale o nodemon em sua máquina com o comando:
 ```console
 $ npm install -g nodemon
